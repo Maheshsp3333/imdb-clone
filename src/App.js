@@ -8,7 +8,9 @@ import Movie from './moviedetail/Movie';
 
 function App() {
   return (
+    
     <div className="App">
+      <div></div>
      <Router>
       <Header />
       <Routes>
